@@ -18,7 +18,7 @@
 		<link>
 			<name>assets</name>
 			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/xor-android/assets</locationURI>
+			<location>/home/tannalein/git/xor/xor-android/assets</location>
 		</link>
 	</linkedResources>
 </projectDescription>
